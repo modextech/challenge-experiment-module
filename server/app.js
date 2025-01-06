@@ -16,6 +16,7 @@ var usersRouter = require("./routes/usersRouter");
 var unpublishedCampaignsRouter = require("./routes/unpublishedCampaignsRouter");
 var publishedCampaignsRouter = require("./routes/publishedCampaignsRouter");
 var imagesRouter = require("./routes/imagesRouter");
+var userRouter = require("./routes/userRouter");
 var donationsRouter = require("./routes/donationsRouter");
 
 var app = express();
